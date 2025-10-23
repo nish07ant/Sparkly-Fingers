@@ -5,8 +5,6 @@ This is a sample program that recognizes hand signs and finger gestures with a s
 
 
 <b>A few days ago, I discovered mediapipe and decided to do a project on it.<br>
-I was was having a chat about it with my girlfriend, and she asked if I can make sparkles come out of her finger when she points it to the camera.<br>
-Being a good coder boyfriend, I managed to learn and make it work in a few days.</b>
 
 
 # Requirements
